@@ -61,18 +61,6 @@
 
 ---
 
-### 🔥 Commit Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=whabl0220&theme=radical&hide_border=true)  
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/whabl0220/whabl0220/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🏅 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=whabl0220&label=Profile%20views&color=ff69b4&style=flat)
