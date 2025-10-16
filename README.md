@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Hi, I'm whabl0220</h1>
+<h1 align="center">Hi, I'm whabl0220</h1>
 <h3 align="center">Frontend Developer crafting intuitive & dynamic user experiences</h3>
 
 ---
@@ -25,8 +25,6 @@
 
 ### 🎨 UI & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ⚙️ State Management & Dev Tools
@@ -37,22 +35,46 @@
 ### 🧩 Others
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ### 📊 GitHub Insights
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whabl0220&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whabl0220&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Activity & Badges
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whabl0220&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whabl0220&theme=react-dark&hide_border=true)
+
+---
+
+### 🔥 Commit Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=whabl0220&theme=radical&hide_border=true)  
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/whabl0220/whabl0220/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🏅 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=whabl0220&label=Profile%20views&color=ff69b4&style=flat)
 
 ---
