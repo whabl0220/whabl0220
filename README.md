@@ -1,14 +1,17 @@
 <h1 align="center">Hi, I'm whabl0220</h1>
-<h3 align="center">Frontend Developer crafting intuitive & dynamic user experiences</h3>
+<h3 align="center">Frontend-leaning Full-stack Developer building products end-to-end</h3>
 
 ---
 
 ### 👋 About Me
 
-- 💻 Frontend developer specializing in **React**, **Next.js**, and **Flutter**
-- 🎯 Focused on building seamless, responsive, and beautiful user interfaces
-- 🌱 Currently exploring **React Native** and cross-platform mobile development
-- 💬 Ask me about **UI/UX design**, **frontend performance**, or **state management**
+- 🎓 Software Engineering student at **Sejong University**
+- 💻 Frontend-leaning full-stack developer, comfortable across **React/Next.js/Flutter** and **Java/Spring Boot/Python**
+- 🧪 Currently a FullStack Developer intern at **MegaZoneCloud** (Sep 2026 – present), building **WAVE Qampus Lab**, a newly launched quantum education cloud platform — involved end-to-end from planning and design to frontend/backend development, with React, Python, PostgreSQL, AWS, and Jupyter
+- 🚀 Shipped a church management platform (attendance + event management) used by **300+ active users**
+- 📱 Released **Rebounce** on the App Store
+- 🏆 Won **5** domestic/international competitions, including the **Chairman's Award of the National Research Foundation of Korea** for the OptiEV project
+- 💬 Ask me about **frontend performance**, **full-stack architecture**, or **UI/UX design**
 - 📫 Reach me at **whabl0220@gmail.com**
 
 ---
@@ -16,26 +19,29 @@
 ## 🛠️ Tech Stack
 
 ### 💜 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🎨 UI & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🧰 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ⚙️ State Management & Dev Tools
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-### 🧩 Others
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### ⚙️ Infra & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
